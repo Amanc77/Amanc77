@@ -31,3 +31,29 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanc77&show_icons=true&locale=en" alt="amanc77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanc77&" alt="amanc77" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
