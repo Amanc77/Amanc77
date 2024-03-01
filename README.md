@@ -48,5 +48,5 @@
 
 <h2>Snake Animation</h2>
 <p align="center">
-  <img src="https://github.com/Amanc77/Amanc77/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/AmanC77/AmanC77/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
