@@ -48,11 +48,4 @@
   <img src="https://streak-stats.demolab.com?user=Amanc77&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
-
-<br clear="both">
-
-
-<p align="center">
-  <img src="https://github.com/AmanC77/AmanC77/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![snake gif](https://github.com/Amanc77/Amanc77/blob/output/github-contribution-grid-snake.svg)
