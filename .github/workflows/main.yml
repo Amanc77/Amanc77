@@ -15,7 +15,7 @@ jobs:
         uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Amanc77
+          github_user_name: AmanC77
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Deploy to GitHub Pages
