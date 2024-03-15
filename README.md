@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanc77" alt="amanc77" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio project](https://github.com/Amanc77/-my-Portfolio)
+- 🔭 I’m currently working on Frontend Project.
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [frontend projects](https://github.com/Amanc77/-my-Portfolio)
+  
 
 - 💬 Ask me about **JavaScript, React, Tailwind**
 
-- 📫 How to reach me: aman84ya1@gmail.com
+- 📫 How to reach me: amankrc@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
