@@ -11,7 +11,7 @@
 
   
 
-- 💬 Ask me about **JavaScript, React, Tailwind**
+- 💬 Ask me about **JavaScript, Tailwind , React**
 
 - 📫 How to reach me: amankrc7@gmail.com
 
