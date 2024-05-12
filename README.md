@@ -52,6 +52,3 @@
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 
-<p align="center">
- <img width="1000" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
