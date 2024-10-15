@@ -22,7 +22,7 @@
 <a href="https://twitter.com/amanc77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanc77" height="30" width="40" /></a>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <a href="https://linkedin.com/in/aman-kumar-chaurasiya-5615762a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-chaurasiya-5615762a4/" height="30" width="40" /></a>
-<a href="https://instagram.com/amanc.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanc.7" height="30" width="40" /></a>
+
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
