@@ -1,8 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 <h1 align="center">Hi 👋, I'm Aman 😎</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanc77&label=Profile%20views&color=0e75b6&style=flat" alt="amanc77" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanc77" alt="amanc77" /></a> </p>
 
 
@@ -56,8 +54,10 @@
 </a>
 <a href="https://github.com/AmanC77?tab=followers"><img src="https://img.shields.io/github/followers/AmanC77?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+LinkedIn!;I'm+a+Lifelong+Learner">
-</h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+LinkedIn!;I'm+a+Lifelong+Learner"></h3>
+    <p align="center">
+     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 
