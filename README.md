@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 <h1 align="center">Hi 👋, I'm Aman 😎</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 ## 🎉 Greeting 🎉
 I'm a passionate Frontend Developer with expertise in building intuitive and user-friendly web applications. With solid experience in HTML, CSS, JavaScript, Tailwind CSS, and modern frameworks like React, I specialize in crafting responsive, visually appealing interfaces that enhance user experiences.
