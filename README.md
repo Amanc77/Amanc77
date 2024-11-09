@@ -1,8 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 <h1 align="center">Hi 👋, I'm Aman 😎</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanc77" alt="amanc77" /></a> </p>
+<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
+### 🏆 My GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmanC77&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5)](https://github.com/AmanC77)
 
 - 🌱 I’m currently learning **Frontend Developent**
 
@@ -35,15 +37,16 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanc77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanc77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanC77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanC77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Amanc77&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AmanC77&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&order=3" height="220" alt="streak graph" />
 </div>
+
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
