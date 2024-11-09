@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Aman 😎</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
+## 🎉 Greeting 🎉
+I'm a passionate Frontend Developer with expertise in building intuitive and user-friendly web applications. With solid experience in HTML, CSS, JavaScript, Tailwind CSS, and modern frameworks like React, I specialize in crafting responsive, visually appealing interfaces that enhance user experiences.
+
+<hr/>
+
+
 ### 🏆 My GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmanC77&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5)](https://github.com/AmanC77)
@@ -37,11 +43,14 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmanC77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanC77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
 </div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AmanC77&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&order=3" height="220" alt="streak graph" />
