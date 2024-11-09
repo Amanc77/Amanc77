@@ -49,4 +49,16 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
+## 💜 Views and Followers:
+
+<a href="https://github.com/AmanC77/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AmanC77">
+</a>
+<a href="https://github.com/AmanC77?tab=followers"><img src="https://img.shields.io/github/followers/AmanC77?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+LinkedIn!;I'm+a+Lifelong+Learner">
+</h3>
+
+
+
 
