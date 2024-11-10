@@ -43,16 +43,16 @@ I'm a passionate Frontend Developer with expertise in building intuitive and use
 </p>
 
 
-<div align="center"  style="padding: 20px; background-color: #f5f5f5; border-radius: 10px;">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmanC77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanC77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<div align="center" style="padding: 20px; background-color: #f5f5f5; border-radius: 10px;">
-  <a href="https://github.com/AmanC77">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmanC77&show_icons=true&theme=github_dark&hide_border=false&border_radius=10" height="220" alt="AmanC77's GitHub stats" />
-  </a>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AmanC77&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&order=3&theme=github_dark" height="220" alt="streak graph" />
 </div>
 
 
