@@ -50,10 +50,10 @@ I'm a passionate Frontend Developer with expertise in building intuitive and use
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanC77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AmanC77&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&order=3&theme=github_dark" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=AmanC77&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+
 
 
 
