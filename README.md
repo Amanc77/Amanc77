@@ -14,7 +14,7 @@ I'm a passionate Frontend Developer with expertise in building intuitive and use
 - 🌱 I’m currently learning **Frontend Developent**
 
 
-- 💬 Ask me about **JavaScript, Tailwind , React**
+- 💬 Ask me about **JavaScript, Tailwind , R
 
 - 📫 How to reach me: amankrc7@gmail.com
 
