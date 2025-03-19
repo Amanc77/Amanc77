@@ -14,7 +14,7 @@ I'm a passionate Frontend Developer with expertise in building intuitive and use
 - 🌱 I’m currently learning **Frontend Developent**
 
 
-- 💬 Ask me about **JavaScript, Tailwind , R
+- 💬 Ask me about **JavaScript, Tailwind , React**
 
 - 📫 How to reach me: amankrc7@gmail.com
 
@@ -67,6 +67,10 @@ I'm a passionate Frontend Developer with expertise in building intuitive and use
 <a href="https://github.com/AmanC77?tab=followers">
     <img src="https://img.shields.io/github/followers/AmanC77?label=Followers&style=social" style="zoom: 1.5;">
 </a>
+
+
+
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+LinkedIn!;I'm+a+Lifelong+Learner">
 </h3>
@@ -75,6 +79,9 @@ I'm a passionate Frontend Developer with expertise in building intuitive and use
 </p>
 
 
+### ✍️ Dev Quote
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="99%"/>
 
 
 
