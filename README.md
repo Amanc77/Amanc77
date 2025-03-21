@@ -59,14 +59,15 @@ I'm a passionate Frontend Developer with expertise in building intuitive and use
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
+## 💜 Views and Followers:
 
 <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
-  💜  <a href="https://github.com/AmanC77/github-profile-views-counter">
+    <a href="https://github.com/AmanC77/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=AmanC77&color=blue&style=for-the-badge" alt="Profile Views" style="transform: scale(1.5);"/>
     </a>
     <a href="https://github.com/AmanC77?tab=followers">
         <img src="https://img.shields.io/github/followers/AmanC77?label=Followers&style=for-the-badge" alt="Followers" style="transform: scale(1.5);"/>
-    </a>  💜 
+    </a> 
 </p>
 
 
