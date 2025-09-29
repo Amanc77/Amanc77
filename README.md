@@ -1,78 +1,78 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
+
 <h1 align="center">Hi 👋, I'm Aman 😎</h1>
 
-## 🎉 Greeting 🎉
-I'm a passionate Frontend Developer with expertise in building intuitive and user-friendly web applications. With solid experience in HTML, CSS, JavaScript, Tailwind CSS, and modern frameworks like React, I specialize in crafting responsive, visually appealing interfaces that enhance user experiences.
+<h3 align="center">
+  <a href="" style="text-decoration:none;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Problem+Solver;AI+Enthusiast;Software+Developer" alt="Typing SVG">
+  </a>
+</h3>
 
-<hr/>
+---
 
-### 🏆 My GitHub Profile Trophy
+## 🎯 About Me
+I’m **Aman Kumar Chaurasiya**, a passionate **MERN Stack Developer** and **AI enthusiast**.  
+I love building **scalable, modern web applications**, solving **complex problems**, and exploring **cutting-edge AI solutions**.  
 
+- 🌱 Currently learning **Advanced Full-Stack & AI**  
+- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, DSA, C++**  
+- 🏆 Solving problems on **LeetCode**
+- 📫 Reach me at: **amankrc7@gmail.com**
+
+---
+
+## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmanC77&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5)](https://github.com/AmanC77)
 
-- 🌱 I’m currently learning **Frontend Development**
+---
 
-- 💬 Ask me about **JavaScript, Tailwind, React**
-
-- 📫 How to reach me: amankrc7@gmail.com
-
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amanc77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanc77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman-kumar-chaurasiya-5615762a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-chaurasiya-5615762a4/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
-
-<div>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanC77&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmanC77&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
-</div>
-<div>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanC77&theme=tokyonight" alt="Profile details" width="100%" height="auto"></a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AmanC77&theme=tokyonight&hide_border=false" width="100%" height="330px" alt="streak graph" />
-</div>
-
-
-
-
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
-
-## 💜 Views and Followers:
-
+## 💻 Skills
 <p align="center">
-    <a href="https://github.com/AmanC77/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=AmanC77&color=blue&style=for-the-badge" alt="Profile Views" />
-    </a>
-    <a href="https://github.com/AmanC77?tab=followers">
-        <img src="https://img.shields.io/github/followers/AmanC77?label=Followers&style=for-the-badge" alt="Followers" />
-    </a> 
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" title="React" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node.js" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" title="Express" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60" title="MongoDB" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" title="HTML5" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" title="CSS3" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" title="C++" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" title="Git" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" title="Linux" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" title="Docker" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="60" height="60" title="Figma" style="margin:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" /></a>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+LinkedIn!;I'm+a+Lifelong+Learner">
-</h3>
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/amanc77" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aman-kumar-chaurasiya-5615762a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AmanC77" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/amanc77/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanC77&theme=tokyonight" width="49%" alt="Stats"/></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmanC77&theme=tokyonight" width="49%" alt="Commits"/></a>
+</div>
+<div align="center">
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanC77&theme=tokyonight" width="100%" alt="Profile Details"/></a>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AmanC77&theme=tokyonight&hide_border=false" width="100%" height="330px" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 💬 Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="99%"/>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-### ✍️ Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="99%"/>
