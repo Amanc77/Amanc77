@@ -28,6 +28,8 @@ I focus on building **modern, responsive, and high-performance web apps** that b
   <img src="https://github-profile-trophy.vercel.app/?username=AmanC77&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
+[![An image of @amanc77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanc77)](https://holopin.io/@amanc77)
+
 ---
 
 
@@ -72,6 +74,8 @@ I focus on building **modern, responsive, and high-performance web apps** that b
 </div>
 
 ---
+
+
 
 
 ## 💬 Dev Quote
