@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/> -->
 
-<h1 align="center">Hi 👋, I'm Aman 😎</h1>
+<h1 align="center">Hi 👋, I'm Aman 😎 </h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Problem+Solver;AI+Enthusiast;Software+Developer" alt="Typing SVG">
@@ -11,15 +11,23 @@
 
 ## 🎯 About Me <img align="right" src="https://komarev.com/ghpvc/?username=AmanC77&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
-I’m **Aman Kumar**, a passionate MERN Stack Developer and AI enthusiast.
-I focus on building **modern, responsive, and high-performance web apps** that blend clean design with strong functionality.  
+I’m **Aman Kumar**, a **Software Developer** passionate about building scalable web applications and exploring the power of **AI and Machine Learning**.
 
-- 🌱 Currently learning Advanced Full-Stack & AI  
-- 💬 Ask me about **React, JavaScript, Node.js, Express, MongoDB, C++, and DSA**  
-- 🏆 Regularly solving problems on **LeetCode**  
-- 🎯 My goal is to become a **skilled full-stack engineer** who creates meaningful digital products  
-- 📫 Reach me at: **amankrc7@gmail.com**
+I specialize in the **fullstack stack** and focus on creating **fast, responsive, and user-focused applications** with clean architecture and efficient backend systems. I enjoy solving real-world problems through code and continuously improving my development and problem-solving skills.
 
+💻 **Software Developer skilled in** React, JavaScript, Node.js, Express, MongoDB, and REST APIs  
+
+🤖 **Strong interest in** AI, Machine Learning, and intelligent systems  
+
+🧠 **Practicing** Data Structures and Algorithms on LeetCode
+
+🚀 **Building** full-stack and AI-powered projects  
+
+📚 **Currently learning** Advanced Full-Stack Development, System Design, and AI/ML  
+
+🎯 **Goal:** Become a highly skilled Software Engineer and build impactful, real-world products  
+
+📫 **Reach me at:** amankrc7@gmail.com
 ---
 
 ## 🏆 GitHub Trophies
