@@ -19,8 +19,8 @@ I’m **Aman Kumar**, a **Software Developer** passionate about building scalabl
 🚀 **Projects:** Building full-stack and AI-powered applications  
 📚 **Learning:** Advanced Full-Stack, System Design, and AI/ML  
 🎯 **Goal:** Become a skilled Software Engineer and build impactful products  
-
 📫 **Contact:** amankrc7@gmail.com
+
 ---
 
 ## 🏆 GitHub Trophies
