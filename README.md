@@ -13,21 +13,14 @@
 
 I’m **Aman Kumar**, a **Software Developer** passionate about building scalable web applications and exploring the power of **AI and Machine Learning**.
 
-I specialize in the **fullstack stack** and focus on creating **fast, responsive, and user-focused applications** with clean architecture and efficient backend systems. I enjoy solving real-world problems through code and continuously improving my development and problem-solving skills.
+💻 **Tech Stack:** React, JavaScript, Node.js, Express, MongoDB, REST APIs  
+🤖 **Focus Areas:** Full-Stack Development, AI/ML, Intelligent Systems  
+🧠 **Problem Solving:** Practicing Data Structures and Algorithms on LeetCode  
+🚀 **Projects:** Building full-stack and AI-powered applications  
+📚 **Learning:** Advanced Full-Stack, System Design, and AI/ML  
+🎯 **Goal:** Become a skilled Software Engineer and build impactful products  
 
-💻 **Software Developer skilled in** React, JavaScript, Node.js, Express, MongoDB, and REST APIs  
-
-🤖 **Strong interest in** AI, Machine Learning, and intelligent systems  
-
-🧠 **Practicing** Data Structures and Algorithms on LeetCode
-
-🚀 **Building** full-stack and AI-powered projects  
-
-📚 **Currently learning** Advanced Full-Stack Development, System Design, and AI/ML  
-
-🎯 **Goal:** Become a highly skilled Software Engineer and build impactful, real-world products  
-
-📫 **Reach me at:** amankrc7@gmail.com
+📫 **Contact:** amankrc7@gmail.com
 ---
 
 ## 🏆 GitHub Trophies
