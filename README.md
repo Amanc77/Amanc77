@@ -18,7 +18,6 @@ I’m **Aman Kumar**, a **Software Developer** passionate about building scalabl
 🧠 **Problem Solving:** Practicing Data Structures and Algorithms on LeetCode  
 🚀 **Projects:** Building full-stack and AI-powered applications  
 📚 **Learning:** Advanced Full-Stack, System Design, and AI/ML  
-🎯 **Goal:** Become a skilled Software Engineer and build impactful products  
 📫 **Contact:** amankrc7@gmail.com
 
 ---
@@ -57,7 +56,6 @@ I’m **Aman Kumar**, a **Software Developer** passionate about building scalabl
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/amanc77" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/aman-kumar-chaurasiya-5615762a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AmanC77" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/amanc77/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
